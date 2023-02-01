@@ -2,8 +2,8 @@
 This program generates a QR code from a URL passed as a request parameter. The generated QR code image can then be downloaded as a PNG file.
 
 ## Requirements
-- [Flask]('https://pypi.org/project/qrcode/')
-- [qrcode]('https://flask.palletsprojects.com/en/2.2.x/')
+- [Flask](https://pypi.org/project/qrcode/)
+- [qrcode](https://flask.palletsprojects.com/en/2.2.x/)
 
 ## Installation
 - pip install flask
