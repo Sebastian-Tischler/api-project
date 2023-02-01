@@ -47,5 +47,5 @@ The function extract_flight_data takes an HTML page as input and uses BeautifulS
 ### Cleaning Flight Data
 The function clean_flight_data takes the extracted flight data and removes unwanted characters, such as newlines and tabs, to ensure that the data is clean and easy to use.
 
-### Limitations
+## Limitations
 This program is limited by the website it scrapes, as the website's structure and content may change over time. If the website's structure changes, the program may need to be updated to continue scraping the correct data. Additionally, the program is limited to searching for flight status by flight number, and may not work for all airlines or flight numbers.
