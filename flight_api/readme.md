@@ -1,11 +1,6 @@
 # Flight Status Scraper
 This project is a web scraper that scrapes flight status data from a website using Selenium and BeautifulSoup. It has a RESTful API built with Flask that allows users to search for flight status by flight number. The scraped data includes departure and arrival times, travel time, departure and arrival statuses, and start and end airports with codes and cities.
 
-## Table of Contents
-1. [Getting Started](Getting Started)  
-2. [Used functions](Used functions)
-3. [Limitations](Limitations) 
-
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine.
 
